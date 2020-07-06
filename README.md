@@ -51,14 +51,6 @@ params:
 
 #### Configure Key 2
 
-Given the example above, passing the following arguments to `tnd-imgix/GetSRC`
-```
-{{ $src := "/uploads/an-image.jpg" }}
-{{ $args := dict "src" $src "width" 1024 "pixel" 2 "ch" "Width,DPR" }}
-```
-
-Will produce: `https://imgix.domain.com/image.jpg?w=1024&dpr=2&ch=Width,DPR`
-
 #### Defaults
 
 ld copy/paste the above to your settings and append with new extensions.
