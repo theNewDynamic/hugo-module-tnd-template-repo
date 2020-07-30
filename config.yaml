@@ -4,3 +4,5 @@ module:
   mounts:
   - source: partials
     target: layouts/partials/tnd-{moduleName}
+  - source: console
+    target: layouts/partials/tnd-{moduleName}
