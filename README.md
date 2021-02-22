@@ -57,4 +57,4 @@ ld copy/paste the above to your settings and append with new extensions.
 
 ## theNewDynamic
 
-This project is maintained and love by [thenewDynamic](https://www.thenewdynamic.com).
+This project is maintained and loved by [thenewDynamic](https://www.thenewdynamic.com).
